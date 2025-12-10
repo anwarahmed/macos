@@ -17,3 +17,5 @@ brew install cmatrix-git
 ```sh
 brew tap thusvill/livewallpaper && brew install --cask livewallpaper
 ```
+
+### [Wallper](https://www.wallper.app)
