@@ -12,7 +12,7 @@ macOS RICEing
 brew install cmatrix-git
 ```
 
-### [LiveWallpaperMacOS](https://github.com/thusvill/LiveWallpaperMacOS)
+### ~[LiveWallpaperMacOS](https://github.com/thusvill/LiveWallpaperMacOS)~
 
 ```sh
 brew tap thusvill/livewallpaper && brew install --cask livewallpaper
